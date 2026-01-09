@@ -1,6 +1,6 @@
 {
   "name": "@kimhyukjin/hi",
-  "version": "0.0.6",
+  "version": "0.0.3",
   "description": "",
   "homepage": "https://github.com/hyukjinKimm/npm-npx#readme",
   "bugs": {
@@ -12,9 +12,8 @@
   },
   "license": "ISC",
   "bin": {
-    "hi": "cli.js",
-    "say-hi": "cli.js",
-    "say-hi-kr": "cli-kr.js"
+    "say-hi": "node cli.js",
+    "say-hi-kr": "node cli-kr.js"
   },
   "author": "",
   "type": "commonjs",
